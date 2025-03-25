@@ -1,5 +1,5 @@
 // Your code here
-fetch ("http://localhost:3000/characters")
+fetch ("https://flattercuties.vercel.app/characters")
 
 .then (response => response.json())
 .then (data => {

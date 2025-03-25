@@ -23,12 +23,12 @@ json-server --watch db.json
 
 Test your server by visiting this route in the browser:
 
-[http://localhost:3000/characters](http://localhost:3000/characters)
+(https://week-2-code-challenge-flatter-cutie-mumbe-stack-bvjgl37ze.vercel.app/)
 
 Then, open the `index.html` file on your browser to run the application.
 
 Write your code in the `src/index.js` file. The base URL for your API will be
-[http://localhost:3000](http://localhost:3000).
+(https://flattercuties.vercel.app/characters).
 
 ## Deliverables
 
